@@ -49,11 +49,6 @@ By analyzing public sentiment towards healthcare, this project provides insights
 
 Future directions include expanding the dataset, incorporating more social media sources, and refining machine learning models to improve accuracy in capturing nuanced sentiments and trends.
 
-## Team
-
-- **Aaqib Ali**
-- **Sadia Noor**
-- **Javeria Ahmed**
 
 ## Acknowledgments
 
